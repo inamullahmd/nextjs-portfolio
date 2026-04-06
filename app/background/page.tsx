@@ -147,7 +147,7 @@ export default function Background() {
             location='Norman, OK'
             course="Master's in Data Science & Analytics"
             event="Jan 2023 - Dec 2024 (Expected)"
-            gpa="GPA: 3.89 / 4.0"
+            gpa="GPA: 3.90 / 4.0"
             activities={[
               "Working as a Graduate Research Assistant for the Department of Electrical and Computer Engineering",
               "Member of OU Cricket Club and OU DSA Club"

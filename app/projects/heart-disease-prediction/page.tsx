@@ -6,7 +6,7 @@ export const article: Article = {
   date: '2023-12-14',
   title: 'Prediction of heart disease',
   description: 'We developed and evaluated three machine learning models (Logistic Regression, Random Forest, MARS Model) for predicting heart disease using a dataset of over 319,000 health records. Despite high accuracy, we found issues with low specificity, leading to more false positives.',
-  formattedDate: 'Dec 14, 2023',
+  formattedDate: 'December 14, 2023',
   href: 'heart-disease-prediction'
 }
 

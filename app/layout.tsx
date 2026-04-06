@@ -12,7 +12,7 @@ export const metadata: Metadata = {
       'Inamullah Mohammad - Web developer, coder, and an aspiring data scientist',
   },
   description:
-    'I’m Spencer, a software designer and entrepreneur based in New York City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms.',
+    "I'm Inamullah. Welcome to my little corner of the web! This site is like a dungeon full of my adventures in coding, design, and all things geeky, whether I&lsquo;m weaving spells with data or crafting web wonders. Take a stroll and explore the bits and bytes of my world. Got a quest for me or just want to chat? Let&lsquo;s geek out together!",
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,

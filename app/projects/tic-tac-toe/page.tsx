@@ -9,7 +9,7 @@ export const article: Article = {
   title: 'Using RL to create an agent for Tic-Tac-Toe',
   description:
     'In our project, we aim to implement Q-Learning, SARSA, and Dynamic Programming algorithms for Tic Tac Toe. Our goal is to train an agent to play effectively against human opponents. We explore the game&lsquo;s history, its relevance in AI, and compare the performance of the implemented algorithms.',
-  formattedDate: 'Mar 22, 2023',
+  formattedDate: 'March 22, 2023',
   href: 'tic-tac-toe'
 }
 

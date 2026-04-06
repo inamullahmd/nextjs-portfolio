@@ -364,7 +364,7 @@ function Education() {
         label: 'Present',
         dateTime: new Date().getFullYear().toString(),
       },
-      gpa: '3.89 / 4.0'
+      gpa: '3.90 / 4.0'
     },
     {
       company: 'JNTU Kakinada, India',
